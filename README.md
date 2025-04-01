@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @NTVHiep-21200288
-- 👀 I’m interested in different things
-- 🌱 I’m currently learning ROR
 
 
 <!---
